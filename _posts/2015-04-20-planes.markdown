@@ -1,0 +1,28 @@
+---
+title:  "TNT Algérie"
+subtitle: "Ragarder la télé algériennes n'importe n'importe quand"
+author: "ItechApps"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date:   2020-04-20 12:32:12
+---
+
+### Description
+Vous pouvez regarder les programmes de toutes les chaînes TNT Algérienne.
+Un écran qui liste les chaînes avec leur programmes en cours de diffusion.
+
+Il suffit de toucher une chaîne pour afficher le programme en cours de diffusion.
+
+Tnt Algérie vous indique les programmes de toutes les chaînes TNT Algérienne.
+
+La liste des chaines Algériennes disponibles dans cette application :
+
+TVالشروق | Echourouk TV
+NEWS الشروق | Echourouk News
+TV بنة | Benna TV
+القناة الجزائرية | Canal Algérie
+القناة الجزائرية 3 | Canal Algérie 3
+5 القناة الجزائرية | Canal Algérie 5
+TVالنهار | El Nahar TV
+TV نوميديا | Numidia
+TV سميرة | Samira TV
