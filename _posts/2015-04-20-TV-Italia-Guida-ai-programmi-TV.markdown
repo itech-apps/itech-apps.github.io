@@ -16,7 +16,5 @@ TNT Italia - Guide TV program canali sono accessibili da qualsiasi parte in Ital
 
 Libero e semplice è lo slogan della nostra app TV Italia - Guida programma TV.
 
-Link per il download del Play Store : <a href="https://play.google.com/store/apps/details?id=com.itech.programmetv.italia" title="TV Italia - Guida ai programmi TV" ><span class="link-hover-blue">TV Italia - Guida ai programmi TV</span></a>
-
-
+Link per il download del Play Store : [TV Italia - Guida ai programmi TV](https://play.google.com/store/apps/details?id=com.itech.programmetv.italia "TV Italia - Guida ai programmi TV").
 
