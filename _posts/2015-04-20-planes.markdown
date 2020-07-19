@@ -1,6 +1,6 @@
 ---
-title:  "TNT Algérie"
-subtitle: "Ragarder la télé algériennes n'importe n'importe quand"
+title:  "TV Italia - Guida ai programmi TV"
+subtitle: "È possibile controllare i programmi e guardare tutti i canali televisivi italiani...Leggi di più"
 author: "ItechApps"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
@@ -8,21 +8,15 @@ date:   2020-04-20 12:32:12
 ---
 
 ### Description
-Vous pouvez regarder les programmes de toutes les chaînes TNT Algérienne.
-Un écran qui liste les chaînes avec leur programmes en cours de diffusion.
+Schermata che elenca i canali con programmi trasmessi. Basta toccare una stringa per visualizzare i programmi e guardare il live streaming.
 
-Il suffit de toucher une chaîne pour afficher le programme en cours de diffusion.
+TV Italia- Guida ai programmi TV vi racconta i programmi di tutti i canali televisivi italiani e le trasmissioni in diretta.
 
-Tnt Algérie vous indique les programmes de toutes les chaînes TNT Algérienne.
+TNT Italia - Guide TV program canali sono accessibili da qualsiasi parte in Italia, non è richiesta alcuna registrazione o pagamento.
 
-La liste des chaines Algériennes disponibles dans cette application :
+Libero e semplice è lo slogan della nostra app TV Italia - Guida programma TV.
 
-TVالشروق | Echourouk TV
-NEWS الشروق | Echourouk News
-TV بنة | Benna TV
-القناة الجزائرية | Canal Algérie
-القناة الجزائرية 3 | Canal Algérie 3
-5 القناة الجزائرية | Canal Algérie 5
-TVالنهار | El Nahar TV
-TV نوميديا | Numidia
-TV سميرة | Samira TV
+Link per il download del Play Store : <a href="https://play.google.com/store/apps/details?id=com.itech.programmetv.italia" title="TV Italia - Guida ai programmi TV" style="color:bleu">TV Italia - Guida ai programmi TV</a>
+
+
+

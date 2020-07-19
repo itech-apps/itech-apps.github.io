@@ -16,3 +16,5 @@ TNT Tunisie - Guide TV vous indique les programmes de toutes les chaînes de la 
 Les chaînes de TNT Tunisie - Guide TV sont accessibles de n'importe ou en Tunisie, ni inscription ni paiement sont requises.
 
 La gratuité et la simplicité est le slogan de notre application TNT Tunisie - Guide TV.
+
+Lien de télechargment de l'application a partir de Play Store : <a href="https://play.google.com/store/apps/details?id=com.itech.programmetv.tunisia" title="TV Tunisie - Guide TV" style="color:bleu">TV Tunisie - Guide TV</a>

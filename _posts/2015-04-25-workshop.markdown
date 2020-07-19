@@ -1,5 +1,5 @@
 ---
-title:  "TNT FRANCE"
+title:  "TNT France Direct - Guide Programme TV"
 subtitle: "Regarder la télé francaise n'importe, n'importe quand"
 author: "ItechApps"
 avatar: "img/authors/wferr.png"
@@ -16,3 +16,5 @@ Tnt France vous indique les programmes de toutes les chaînes de la TNT françai
 Les chaînes de TNT France sont accessibles de n'importe ou en France, ni inscription ni paiement sont requises.
 
 La gratuité et la simplicité est le slogan de notre application TNT France.
+
+Lien de télechargment de l'application a partir de Play Store : <a href="https://play.google.com/store/apps/details?id=com.itechapps.tnt.france" title="TNT France Direct - Guide Programme TV" style="color:bleu">TNT France Direct - Guide Programme TV</a>
