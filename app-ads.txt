@@ -11,13 +11,17 @@ pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
 
+facebook.com, 1192472184439295, DIRECT, c3e20eee3f780d68
+
 google.com, pub-7989524685268023, DIRECT, f08c47fec0942fa0
 
 google.com, pub-3727042727130559, DIRECT, f08c47fec0942fa0
 
 google.com, pub-2449202416933626, DIRECT, f08c47fec0942fa0
 
-facebook.com, 1192472184439295, DIRECT, c3e20eee3f780d68
+facebook.com, 158508626229828, DIRECT, c3e20eee3f780d68
+
+facebook.com, 158508626229828, RESELLER, c3e20eee3f780d68
 
 unity.com, 2970059, DIRECT, 96cabb5fbdde37a7
 
