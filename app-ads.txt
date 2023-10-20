@@ -12,7 +12,7 @@ Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
 
 facebook.com, 1192472184439295, DIRECT, c3e20eee3f780d68
-facebook.com, 1192472184439295, DIRECT, c3e20eee3f780d68
+facebook.com, 635721575431724, DIRECT, c3e20eee3f780d68
 
 google.com, pub-7989524685268023, DIRECT, f08c47fec0942fa0
 
