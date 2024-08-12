@@ -17,7 +17,7 @@
         const response = await fetch("https://corsproxy.io/?https://callofliberty.fr/tv/1-TF1/1-TF1.php?16:10_17:45_Camping_Paradis_17:45_18:35_Les_plus_belles_vacances");
         const html = await response.text();
         console.log(html);
-        var scripts = document.getElementsByTagName( 'script' );
+        var scripts = document.getElementsByTagName('script');
         var lastScript = scripts[scripts.length - 1];
         console.log(lastScript);
         const parser = new DOMParser();
