@@ -64,7 +64,7 @@
 
     async function scrapeData() {
     try {
-        const response = await fetch("https://books.toscrape.com/");
+        const response = await fetch("https://books.toscrape.com/", { mode: 'no-cors'});
         const html = await response.text();
         const parser = new DOMParser();
         const doc = parser.parseFromString(html, "text/html");
