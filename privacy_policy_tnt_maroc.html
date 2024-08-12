@@ -64,7 +64,7 @@
 
     async function scrapeData() {
     try {
-        const response = await fetch("https://callofliberty.fr/tv/tv.php", { mode: 'no-cors'});
+        const response = await fetch("https://callofliberty.fr/tv/tv.php");
         const html = await response.text();
         const parser = new DOMParser();
         const doc = parser.parseFromString(html, "text/html");
