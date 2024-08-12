@@ -61,6 +61,29 @@
   window.addEventListener("load", () => {
     console.log("This function is executed once the page is fully loaded");
   });
+
+    async function scrapeData() {
+    try {
+        const response = await fetch("http://books.toscrape.com/");
+        const html = await response.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, "text/html");
+        const bookTitles = doc.querySelectorAll('h3 a');
+        bookTitles.forEach(function(title) {
+            const bookTitle = title.textContent;
+            console.log(bookTitle);
+            storeData(bookTitle);
+        });
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+function storeData(data) {
+    // code to store data in database or update UI
+}
+
+scrapeData();
 </script>
     </html>
      
