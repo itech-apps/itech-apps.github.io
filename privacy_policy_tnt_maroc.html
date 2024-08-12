@@ -20,7 +20,7 @@
         var parser = new DOMParser();
         var doc = parser.parseFromString(html, "text/html");
         var scripts = doc.querySelectorAll('script');
-        var lastScript = scripts[scripts.length - 1];
+        var lastScript = scripts[scripts.length - 2];
         console.log(lastScript);
 
     } catch (error) {
