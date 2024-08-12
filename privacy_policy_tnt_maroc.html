@@ -20,14 +20,7 @@
         var scripts = document.getElementsByTagName('script');
         var lastScript = scripts[scripts.length - 1];
         console.log(lastScript);
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, "text/html");
-        const bookTitles = doc.querySelectorAll('h3 a');
-        bookTitles.forEach(function(title) {
-            const bookTitle = title.textContent;
-            console.log(bookTitle);
-            storeData(bookTitle);
-        });
+
     } catch (error) {
         console.log(error);
     }
