@@ -22,6 +22,8 @@
         var scripts = doc.querySelectorAll('script');
         var lastScript = scripts[scripts.length - 2];
         console.log(lastScript);
+        var str = lastScript.split("'")
+        console.log(str);
 
     } catch (error) {
         console.log(error);
